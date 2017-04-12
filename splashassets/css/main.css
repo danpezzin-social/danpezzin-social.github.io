@@ -686,10 +686,7 @@
 	}
 
 /* Wide */
-	@media only screen and (min-width: 1280px) and (max-width: 1680px) {
-		#header {
-			top: -5em;
-		}
+
 	@media screen and (max-width: 1680px) {
 
 		/* Basic */
