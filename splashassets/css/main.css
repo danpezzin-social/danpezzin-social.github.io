@@ -326,16 +326,17 @@
 /* Main */
 
 	#main {
+		background: rgba(0, 0, 0, 0.3);
 		height: 100%;
 		left: 0;
 		position: fixed;
 		text-align: center;
 		top: 0;
 		width: 100%;
-		background: rgba(0, 0, 0, 0.3);
 	}
 
 		#main:before {
+			background: rgba(0, 0, 0, 0.3);
 			content: '';
 			display: inline-block;
 			height: 100%;
