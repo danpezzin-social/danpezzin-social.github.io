@@ -31,6 +31,7 @@
     width: 100%;
 }
 .video-container video {
+	background: rgba(0, 0, 0, 0.3) !important;
     position: absolute;
     z-index: 0;
     bottom: 0;
